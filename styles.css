@@ -1,0 +1,46 @@
+body {
+     background-color: rgb(10, 96, 175); 
+ /*  background-image: url('alexkid.png');*/
+    color: rgb(224, 221, 46);
+    font-size: 1.1em;
+ }
+ h1 {
+    color: rgb(150, 255, 80);
+ }
+.usercomputer {
+
+    float:left; 
+    position:relative;
+    margin: 80px;
+}
+
+.buttons {
+    position:absolute;
+    bottom: 50px; left: 100px;
+
+}
+
+.result {
+    position:absolute;
+    bottom: 50px; left: 500px;
+}
+
+#compteur {
+    position:absolute;
+    top: 20px; left: 250px;
+    color: rgb(224, 221, 46);
+   
+}
+.perdugagne {
+    position:absolute;
+    bottom: 100px; left: 800px;  
+    color: rgb(227, 236, 97);
+}
+
+
+.pg {
+     
+    position:relative;
+    margin: 30px;
+
+}
